@@ -1,3 +1,4 @@
+#CALCULATIN TRIANGLE AREA
 
 # accepting values for the three sides of a triangle from the user
 a = float(input('Enter first side: '))  
