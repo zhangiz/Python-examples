@@ -1,4 +1,6 @@
 
+# CALCULATING QUADRILATERAL AREA
+
 # accepting values for the heights of the triangles from the user
 h1 = float(input('Enter first height: '))  
 h2 = float(input('Enter second height: '))  
